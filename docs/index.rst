@@ -12,6 +12,8 @@ Welcome to Pokédex's documentation!
    :caption: Contents:
 
    quickstart
+   foo.md
+   mysqlcode.md
    apidocs
 
 
